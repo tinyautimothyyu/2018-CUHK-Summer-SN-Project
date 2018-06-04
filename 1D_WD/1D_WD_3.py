@@ -94,7 +94,7 @@ plt.show()
 plt.clf()
 
 plt.plot(x, z, label="phi-epsilon")
-plt.xlabel("epsilon")
+plt.xlabel("GG")
 plt.ylabel("phi")
 plt.legend()
 plt.show()
